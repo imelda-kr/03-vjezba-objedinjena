@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730715082 source:c:\users\imelda jeronèiæ\onedrive\radna površina\faks-raÈunarstvo\2. godina\objektno\vježbe\03_imelda-krivic\03-vjezba\03_imelda-krivic_01.cpp
+	<iostream>
+	<vector>
+	"vector.hpp"
+
+1730715326 c:\users\imelda jeronèiæ\onedrive\radna površina\faks-raÈunarstvo\2. godina\objektno\vježbe\03_imelda-krivic\03-vjezba\vector.hpp
+	<iostream>
+	<vector>
+

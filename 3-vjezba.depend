@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1730797150 source:d:\documents\ikrivic\03_vjezba_opp-main\03_imelda-krivic_02.cpp
+	<iostream>
+	<vector>
+	"vector.hpp"
+
+1730795641 d:\documents\ikrivic\03_vjezba_opp-main\vector.hpp
+	<iostream>
+	<vector>
+
+1730797330 source:d:\documents\ikrivic\3-vjezba\03_ik_04.cpp
+	<iostream>
+	<vector>
+
